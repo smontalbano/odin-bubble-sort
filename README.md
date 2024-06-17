@@ -1,1 +1,1 @@
-# odin-bubble-sort
+This is a project from The Odin Project to implement a bubble sort method to sort an array of numbers.
